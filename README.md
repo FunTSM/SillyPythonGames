@@ -6,5 +6,5 @@ List of games currently here:
 
 -NumberGuess.py : This is a fairly boring game where you choose a number 1-100 and the computer trys to guess it.
 
--Testing
+-
 

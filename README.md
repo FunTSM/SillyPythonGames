@@ -1,6 +1,9 @@
 # SillyPythonGames
-When i get bored i make mildly entertaining(but mostly just odd) terminal based games in python
+When i get bored i make silly terminal based games in python. Most of them very entertaining and i mainly make them for programming practice.
 
 
 List of games currently here:
-Sorry, i need to remember to move some files from my computer to this repository!
+-NumberGuess.py : This is a fairly boring game where you choose a number 1-100 and the computer trys to guess it.
+
+
+
